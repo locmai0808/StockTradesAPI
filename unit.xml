@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="8.959" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-03-02T20:52:31" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="trades_test " timestamp="2019-03-02T20:52:31" tests="4" file="C:\Users\locma\Downloads\gumgum_challenge-master\test\test0.js" failures="0" time="8.959">
+    <testcase name="trades_test  Get all trades" time="0.815" classname="Get all trades">
+    </testcase>
+    <testcase name="trades_test  Get trades by user id" time="2.096" classname="Get trades by user id">
+    </testcase>
+    <testcase name="trades_test  Get trades by trade type" time="3.141" classname="Get trades by trade type">
+    </testcase>
+    <testcase name="trades_test  Get stock price" time="2.907" classname="Get stock price">
+    </testcase>
+  </testsuite>
+</testsuites>
